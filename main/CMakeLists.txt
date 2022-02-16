@@ -1,0 +1,9 @@
+idf_component_register(
+    SRCS 
+        "main.cpp"
+        "Context.cpp"
+        "Command.cpp"
+        "State.cpp"
+    INCLUDE_DIRS 
+        ""
+)
